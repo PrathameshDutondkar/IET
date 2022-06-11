@@ -1,0 +1,5 @@
+1.Queue
+2.Queue collection
+3.Different ways to make object eligible for garbage collection: (Nulling a reference variable, Re-assigning
+a reference variable & island of isolation)
+4.
